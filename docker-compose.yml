@@ -1,6 +1,0 @@
-version: '3'
-
-services:
-  robot:
-    build: .
-    command: python3 robot-detect.py
