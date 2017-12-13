@@ -9,5 +9,5 @@ Thank you for your great work again.
 
 The script was also created by the robotattackorg [2] team.
 
-[1] https://robotattack.org/
-[2] https://github.com/robotattackorg/robot-detect
+1. https://robotattack.org/
+2. https://github.com/robotattackorg/robot-detect
