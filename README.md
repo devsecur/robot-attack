@@ -7,5 +7,7 @@ docker run devsecur/robot-attack python robot-detect.py <HOST>
 Credits goes to Hanno Böck, Juraj Somorovsky and Craig Young
 Thank you for your great work again.
 
-[1] https://robotattack.org/
+The script was also created by the robotattackorg [2] team.
 
+[1] https://robotattack.org/
+[2] https://github.com/robotattackorg/robot-detect
